@@ -5,7 +5,7 @@ import MinhasRotas from './minhasRotas';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <MinhasRotas />
+  <>
+    <MinhasRotas />
+  </>
 );
-
-

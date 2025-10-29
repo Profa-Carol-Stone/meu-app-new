@@ -1,9 +1,10 @@
-function Letreiro() {
+
+export default function Relogio() {
     return (
       <>
-          <h3>Meu Letreiro</h3>
+      <h1>Meu Letreiro</h1>
       </>
     );
   }
   
-  export default Letreiro;
+  
